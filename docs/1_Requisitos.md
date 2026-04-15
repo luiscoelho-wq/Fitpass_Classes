@@ -1,7 +1,7 @@
 RF01 — Cadastro de ***ALUNOS***  
 O sistema deve permitir cadastrar novos alunos contendo dados pessoais, contato, endereço e plano contratado.  
 
-RF02 — Gerenciamento de ***PLANOS*** 
+RF02 — Gerenciamento de ***PLANOS***   
 O sistema deve permitir criar, editar, ativar e desativar tipos de planos (mensal, trimestral, anual, musculação, funcional etc.).  
 
 RF03 — Controle de ***PAGAMENTOS***  
